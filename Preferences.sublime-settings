@@ -20,7 +20,8 @@
 	],
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
+	"translate_spaces_to_tabs": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,
 	"word_wrap": true
