@@ -1,7 +1,8 @@
 {
-	"color_scheme": "Packages/Base16 Color Schemes/base16-monokai.dark.tmTheme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
+	"flatland_square_tabs": true,
 	"folder_exclude_patterns":
 	[
 		".git",
@@ -24,7 +25,7 @@
 		140
 	],
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
 	"translate_spaces_to_tabs": true,
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
