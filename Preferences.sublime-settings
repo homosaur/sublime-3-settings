@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"flatland_square_tabs": true,
@@ -9,14 +9,21 @@
 		".jekyll-assets-cache"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Subway Color Schemes"
 	],
 	"indent_guide_options": "draw_active",
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"/Users/pgraham/code/wordpress/appistry/wp-content/themes/appistry/.codekit-cache*",
+		"/Users/pgraham/code/wordpress/appistry-micro/wordpress*"
+	],
 	"rulers":
 	[
 		80,
